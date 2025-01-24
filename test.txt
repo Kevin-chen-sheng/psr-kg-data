@@ -1,0 +1,34 @@
+5G切片入专网CFS_场景	contain	用户IP段RES V0.0.0
+新型城域网三层EVPN接入_VLAN接入_场景	contain	SVLAN RES V0.0.0
+IPRAN-CN2三层VPN接入RFS V0.0.0	subordinate_level	下联以太网子接口RES V0.0.0
+新型城域网三层EVPN接入RFS V0.0.0	subordinate_level	VPN网号RES V0.0.0
+IPRAN-CN2三层VPN接入_场景	contain	PE互联IP RES V0.0.0
+云-CN2三层VPN接入RFS V0.0.0	subordinate_level	管理IP RES V0.0.0
+IPRAN-CN2三层EVPN接入RFS V0.0.0	subordinate_level	动态伪线RES V0.0.0
+OTN-CN2三层VPN接入RFS_场景	contain	下联以太网子接口RES V0.0.0
+5GC DNN接入RFS V0.0.0	subordinate_level	STN AS号RES V0.0.0
+新型城域网三层EVPN接入RFS V0.0.0	subordinate_level	QOS模板RES V0.0.0
+5GC DNN接入RFS_比邻_STN接入_中兴_场景	contain	以太网链路RES V0.0.0
+IPRAN PW接入RFS V0.0.0	subordinate_level	隧道口RES V0.0.0
+城域网三层VPN接入RFS V0.0.0	subordinate_level	客户AS号RES V0.0.0
+城域网三层VPN接入_dba_场景	contain	上联以太网端口RES V0.0.0
+5GC DNN RFS_场景	contain	VPN实例RES V0.0.0
+云-CN2三层VPN接入_场景	contain	CVLAN RES V0.0.0
+云-CN2三层EVPN接入_场景	contain	云侧AS号RES V0.0.0
+5GC DNN接入RFS_比邻_STN接入_中兴_场景	contain	CE设备RES V0.0.0
+云-CN2三层EVPN接入RFS V0.0.0	subordinate_level	CN2PE设备RES V0.0.0
+5GC DNN RFS_473085_场景	contain	5GCUDM RES V0.0.0
+PON链路_场景	contain	装机地址RES V0.0.0
+云专网产品 V0.0.0	possesses	宽带接入
+新型城域网-CN2三层VPN接入_场景	contain	PE互联IP RES V0.0.0
+IPRAN伪线(CE直连A)_江西_场景	contain	网格RES V0.0.0
+城域网三层VPN接入_dba_zj_场景	contain	OLT设备RES V0.0.0
+固定入网专线CFS_PON接入_场景	contain	PE互联IP RES V0.0.0
+5G切片入专网CFS V0.0.0	subordinate_level	5GC DNN接入RFS V0.0.0
+OTN以太网链路RFS V0.0.0	subordinate_level	RD RES V0.0.0
+新型城域网-CN2三层VPN接入_场景	contain	新型城域网模板RES V0.0.0
+IPRAN伪线(CE直连A)_场景_v2	contain	CE设备RES V0.0.0
+新型城域网-CN2三层EVPN接入RFS V0.0.0	subordinate_level	管理IP RES V0.0.0
+PON链路RFS V0.0.0	subordinate_level	RD RES V0.0.0
+新型城域网三层EVPN接入RFS V0.0.0	subordinate_level	控制VLAN RES V0.0.0
+IPRAN-CN2三层VPN接入RFS V0.0.0	subordinate_level	以太网端口RES V0.0.0

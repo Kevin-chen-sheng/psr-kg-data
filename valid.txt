@@ -1,0 +1,58 @@
+新型城域网-CN2三层EVPN接入RFS V0.0.0	subordinate_level	RT RES V0.0.0
+新型城域网三层EVPN接入_PW接入_场景	contain	VCID RES V0.0.0
+IPRAN-CN2三层EVPN接入RFS V0.0.0	subordinate_level	管理IP RES V0.0.0
+5GC子切片RFS V0.0.0	subordinate_level	5GCSMF RES V0.0.0
+城域网三层VPN接入_场景	contain	控制VLAN RES V0.0.0
+城域网三层VPN接入_dba_场景	contain	下联以太网端口RES V0.0.0
+IPRAN-CN2三层VPN接入_5G接入_场景	contain	管理IP RES V0.0.0
+5GC DNN RFS_场景	contain	UPF索引RES V0.0.0
+城域网三层VPN接入RFS V0.0.0	subordinate_level	RD RES V0.0.0
+IPRAN伪线(CE直连A)_江西_场景	contain	STNPW接入配置RES V0.0.0
+固定入网专线CFS_新城-CN2新平面_场景	contain	RT RES V0.0.0
+5GC DNN RFS_场景	contain	5GCUPF RES V0.0.0
+新型城域网三层EVPN接入RFS V0.0.0	subordinate_level	CVLAN RES V0.0.0
+IPRAN-CN2三层VPN接入_场景	contain	管理IP RES V0.0.0
+IPRAN伪线(CE连U连B)_场景	contain	B设备RES V0.0.0
+5GC子切片RFS V0.0.0	subordinate_level	5GCSMF 5QI配置RES V0.0.0
+IPRAN-CN2三层VPN接入_5G接入_场景	contain	DCGW RES V0.0.0
+5GC子切片RFS_场景	contain	5GCUPF切片配置RES V0.0.0
+IPRAN PW接入RFS_U接入_场景	contain	A设备RES V0.0.0
+IPRAN-CN2三层EVPN接入_场景	contain	上联以太网端口RES V0.0.0
+城域网互联网_光纤接入_场景	contain	下联以太网端口RES V0.0.0
+城域网三层VPN接入RFS V0.0.0	subordinate_level	PON设备带宽配置RES V0.0.0
+新型城域网三层EVPN接入_VLAN接入_场景	contain	PON设备PON口VLAN配置RES V0.0.0
+IPRAN伪线(CE连U连A)_场景_v2	contain	装机地址RES V0.0.0
+5GC DNN接入RFS_比邻_STN接入_中兴_场景	contain	5GCUPF RES V0.0.0
+5GC DNN接入RFS_致远_中兴_场景	contain	MAC地址RES V0.0.0
+5GC DNN接入RFS_比邻_STN接入_中兴_场景	contain	管理IP RES V0.0.0
+IPRAN-CN2三层VPN接入RFS V0.0.0	subordinate_level	CN2 AS号RES V0.0.0
+IPRAN PW接入RFS_U接入_场景	contain	以太网端口RES V0.0.0
+5GC DNN接入RFS V0.0.0	subordinate_level	网ASBR设备RES V0.0.0
+云-CN2三层VPN接入_场景	contain	上联以太网端口RES V0.0.0
+5GC DNN接入RFS_致远_中兴_场景	contain	上联以太网子接口RES V0.0.0
+城域网三层VPN接入RFS V0.0.0	subordinate_level	网格RES V0.0.0
+PON链路_场景_v2	contain	PON口RES V0.0.0
+PON链路_上海_场景	contain	下联端子RES V0.0.0
+城域网三层VPN接入_dba_场景	contain	CE互联IP RES V0.0.0
+PON链路_上海_场景	contain	网格RES V0.0.0
+新型城域网三层EVPN接入RFS V0.0.0	subordinate_level	上联以太网端口RES V0.0.0
+城域网互联网接入_场景	contain	LOID RES V0.0.0
+云-CN2三层VPN接入RFS V0.0.0	subordinate_level	上联以太网子接口RES V0.0.0
+IPRAN伪线(CE直连A)_场景	contain	动态伪线RES V0.0.0
+OTN-CN2三层VPN接入RFS_场景	contain	以太网子接口RES V0.0.0
+5GC DNN接入RFS_比邻_STN接入_华为_场景	contain	RD RES V0.0.0
+5GC DNN接入RFS_比邻_STN接入_中兴_场景	contain	VLAN口RES V0.0.0
+5GC DNN接入RFS_致远_中兴_场景	contain	RT RES V0.0.0
+城域网三层VPN接入_场景	contain	用户VLAN RES V0.0.0
+IPRAN PW接入RFS_CE连U连B_场景	contain	B设备RES V0.0.0
+云-CN2三层EVPN接入RFS V0.0.0	subordinate_level	PE互联IP RES V0.0.0
+5GC子切片RFS_场景	contain	5GCUDM RES V0.0.0
+云到网专线CFS_EVPN_场景	contain	云-CN2三层EVPN接入RFS V0.0.0
+新型城域网三层EVPN接入RFS V0.0.0	subordinate_level	新型城域网AS号RES V0.0.0
+IPRAN-CN2三层VPN接入_5G接入_场景	contain	CN2PE设备MPLSL3VPN配置RES V0.0.0
+IPRAN-CN2三层EVPN接入RFS V0.0.0	subordinate_level	BFD RES V0.0.0
+云到网专线CFS V0.0.0	subordinate_level	云-CN2三层EVPN接入RFS V0.0.0
+新型城域网-CN2三层VPN接入RFS V0.0.0	subordinate_level	新型城域网模板RES V0.0.0
+IPRAN伪线(CE直连A)_场景_v2	contain	光路RES V0.0.0
+城域网-CN2三层VPN接入RFS V0.0.0	subordinate_level	城域网ASBR设备MPLSL3VPN配置RES V0.0.0
+固定接入互联网CFS_光纤接入_场景	contain	城域网互联网接入RFS V0.0.0

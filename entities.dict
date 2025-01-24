@@ -1,0 +1,318 @@
+0	IPRAN伪线(CE连U连A)_场景_v2
+1	云-CN2三层EVPN接入RFS V0.0.0
+2	隧道口RES V0.0.0
+3	5GCPCF切片配置RES V0.0.0
+4	5GCAMF RES V0.0.0
+5	网
+6	云网专线_四川_场景
+7	云专网产品云节点_场景
+8	新疆互联网专线CFS_Pon_场景
+9	Locator RES V0.0.0
+10	云专网产品 V2.0.0
+11	IPRAN-CN2
+12	以太Trunk模板RES V0.0.0
+13	固定入网专线CFS_新城-CN2新平面_场景
+14	Index RES V0.0.0
+15	区域
+16	VPC网段RES V0.0.0
+17	城域网MSE设备互联网专线配置RES V0.0.0
+18	光链路路由RES V0.0.0
+19	切片组RES V0.0.0
+20	配置
+21	PE互联IP RES V0.0.0
+22	客户AS号RES V0.0.0
+23	IPRAN入云专线_场景
+24	IPRAN伪线(CE直连A)_江西_场景
+25	IPRAN伪线(CE直连A)_场景
+26	新型城域网模板RES V0.0.0
+27	5GC DNN接入RFS V0.0.0
+28	物联网定制DNN产品_场景
+29	链路
+30	云专网产品_普通点_场景
+31	OTN汇聚设备RES V0.0.0
+32	光路RES V0.0.0
+33	城域网MSE设备MPLSL3VPN配置RES V0.0.0
+34	5GC DNN接入RFS_比邻_STN接入_华为_场景
+35	云-CN2三层EVPN接入_场景
+36	极速专线_CFS_396411_场景
+37	MAC地址RES V0.0.0
+38	固定入网专线_IPRAN_场景
+39	VPN网RES V0.0.0
+40	城域网AS号RES V0.0.0
+41	码号
+42	5G核心网
+43	VLAN口RES V0.0.0
+44	5GCUDM RES V0.0.0
+45	城域网三层VPN接入_湖北_RFS_场景
+46	5GC DNN接入RFS_致远_中兴_场景
+47	城域网MSE设备RES V0.0.0
+48	广东智能云网专线_未定义_场景
+49	宽带账号RES V0.0.0
+50	设备
+51	A8-C设备RES V0.0.0
+52	云到网专线CFS_EVPN_场景
+53	PON链路RES V0.0.0
+54	固定入网专线CFS_IPRAN_EVPN接入_场景
+55	光纤光路RFS V0.0.0
+56	固定接入互联网CFS_PON接入_场景
+57	CN2新平面PE三层VPN配置RES V0.0.0
+58	IPran入云专线CFS_场景
+59	云专网产品 V0.0.0
+60	OBD设备RES V0.0.0
+61	VXLAN RES V0.0.0
+62	城域网ASBR设备RES V0.0.0
+63	城域网
+64	上联以太网端口RES V0.0.0
+65	云-新型城域网三层EVPN接入_场景
+66	逻辑通道CFS
+67	以太网子接口RES V0.0.0
+68	静态伪线RES V0.0.0
+69	BFD RES V0.0.0
+70	IPRAN入云专线_黑龙江_非CN2_场景
+71	福建IP虚拟专网CFS_新装_569869_场景
+72	5GCNSSF RES V0.0.0
+73	新型城域网
+74	DCGW RES V0.0.0
+75	OTN CPE RES V0.0.0
+76	CN2
+77	BLeaf互联IP RES V0.0.0
+78	APS组RES V0.0.0
+79	城域网入云RFS_四川_场景
+80	5GCSMF RES V0.0.0
+81	STN AS号RES V0.0.0
+82	新型城域网三层EVPN接入RFS V0.0.0
+83	云专线CFS_装_场景
+84	互联网专线HN_场景
+85	IPRAN-CN2三层EVPN接入_场景
+86	IPRAN PW接入RFS V0.0.0
+87	云-CN2三层VPN接入RFS V0.0.0
+88	PON链路_场景
+89	江西IP虚拟专网_CFS_未定义_864542_场景
+90	CE互联IP RES V0.0.0
+91	固定入网专线CFS_PON接入_场景
+92	新型城域网三层EVPN接入_VLAN接入_场景
+93	以太网链路RES V0.0.0
+94	硬跳RES V0.0.0
+95	STN业务速率配置RES V0.0.0
+96	城域网三层VPN接入_dba_zj_场景
+97	动态伪线RES V0.0.0
+98	5GC子切片RFS V0.0.0
+99	LOID RES V0.0.0
+100	二层虚接口RES V0.0.0
+101	网络实例RES V0.0.0
+102	to专网CFS
+103	用户IP段RES V0.0.0
+104	局向光纤RES V0.0.0
+105	5GC DNN RFS V0.0.0
+106	固定入网专线2CFS_未定义_场景4
+107	PON设备带宽配置RES V0.0.0
+108	云专网产品02_932855_场景
+109	城域网VPN-CFS_未定义_场景
+110	互联IP地址段RES V0.0.0
+111	极速专线产品_990650_场景
+112	城域网-CN2三层VPN接入_场景
+113	新型城域网三层VPN接入_VLAN接入_场景
+114	B设备RES V0.0.0
+115	云POP互联IP RES V0.0.0
+116	CN2PE设备RES V0.0.0
+117	IPRAN伪线(CE直连A)_场景_v2
+118	固定入网专线2CFS_未定义_场景2
+119	DBA带宽模板RES V0.0.0
+120	城域网VPN_场景
+121	PON二层专线
+122	固定接入互联网CFS_光纤接入_场景
+123	STN路由器设备RES V0.0.0
+124	5GCUPF DNN接入配置RES V0.0.0
+125	5GC AS号RES V0.0.0
+126	宽带接入
+127	光连接设备RES V0.0.0
+128	甘肃省内IPRAN_场景
+129	5GCDCGW接入配置RES V0.0.0
+130	IPRAN-CN2三层EVPN接入RFS V0.0.0
+131	物联网定制DNN产品_组网拓扑_场景
+132	IPRAN-CN2三层VPN接入RFS V0.0.0
+133	固定入网专线2CFS_未定义_场景5
+134	固定接入互联网2CFS_未定义_478445_场景
+135	PON子端口RES V0.0.0
+136	VLAN RES V0.0.0
+137	云-CN2三层VPN接入_场景
+138	新型城域网三层EVPN接入_PW接入_场景
+139	新型城域网AS号RES V0.0.0
+140	装机地址RES V0.0.0
+141	IPRAN
+142	城域网VPN-CFS_装_场景
+143	控制VLAN RES V0.0.0
+144	STN-5GC DNN接入RFS_比邻_UPF-B/ASBR_场景
+145	5GC-CN2三层VPN接入RFS_华为_场景
+146	IPRAN PW接入RFS_CE连B_场景
+147	新型城域网三层EVPN配置RES V0.0.0
+148	互联网专线_CFS_未定义_749916_场景
+149	5G切片入云专线CFS_场景
+150	海南_固定接入互联网CFS_光纤接入_场景
+151	STNPW接入配置RES V0.0.0
+152	固定入网专线CFS_OTN接入_场景
+153	5GCSMF切片配置RES V0.0.0
+154	CN2PE设备服务等级组配置RES V0.0.0
+155	RT RES V0.0.0
+156	RB模板RES V0.0.0
+157	光纤光路_场景
+158	VCID RES V0.0.0
+159	固定接入互联网CFS_天津_未定义_场景
+160	5GC-CN2三层VPN接入RFS_中兴_场景
+161	IPRAN伪线(CE连U连B)_场景
+162	PON
+163	PON设备PON口VLAN配置RES V0.0.0
+164	PW入云RFS_场景
+165	5GCUDM切片配置RES V0.0.0
+166	DNN RES V0.0.0
+167	三层虚接口RES V0.0.0
+168	端口
+169	上联端子RES V0.0.0
+170	城域网ASBR设备服务等级组配置RES V0.0.0
+171	CN2 AS号RES V0.0.0
+172	业务管理IP RES V0.0.0
+173	5GC子切片RFS_场景
+174	5GC DNN接入RFS_致远_STN接入_华为_场景
+175	机房RES V0.0.0
+176	5G切片入专网CFS_场景
+177	固定入网专线CFS V0.0.0
+178	集团IPRAN专线CFS_场景
+179	IP地址池组RES V0.0.0
+180	IPRAN PW接入RFS_CE连U连B_场景
+181	固定入网专线CFS_新城-CN2_场景
+182	定制DNN CFS_场景
+183	城域网-CN2三层VPN接入RFS_四川_场景
+184	固定入网专线2CFS_未定义_场景3
+185	CN2接入
+186	固定入网专线2CFS_未定义_场景1
+187	OTN以太网链路RFS_场景
+188	PON链路_场景_v2
+189	5GCSMF 5QI配置RES V0.0.0
+190	CFS_IPVPN_装
+191	用户VLAN RES V0.0.0
+192	云到网专线CFS_场景
+193	新型城域网VPWS EVPN入云_场景
+194	5G切片入专网CFS V0.0.0
+195	浙江极速专线_场景
+196	PON口RES V0.0.0
+197	OLT设备RES V0.0.0
+198	CT云账号RES V0.0.0
+199	5GC N3接口RES V0.0.0
+200	城域网ASBR设备MPLSL3VPN配置RES V0.0.0
+201	下联以太网子接口RES V0.0.0
+202	STN-5GC DNN接入RFS_比邻_UPF-A_场景
+203	固定入城域网专线CFS_场景
+204	UPF索引RES V0.0.0
+205	CIP接口RES V0.0.0
+206	fjtest1012_场景1
+207	下联端子RES V0.0.0
+208	新城网_CFS_未定义_539630_场景
+209	5GCPCF RES V0.0.0
+210	IPRAN-CN2三层VPN接入_5G接入_场景
+211	网ASBR设备RES V0.0.0
+212	互联接口RES V0.0.0
+213	边界
+214	5GCUPF RES V0.0.0
+215	IP地址段RES V0.0.0
+216	IPRAN伪线(CE连U连A)_江西_场景
+217	上联以太网子接口RES V0.0.0
+218	5G切片专线CFS_场景
+219	设备IP RES V0.0.0
+220	IP地址池RES V0.0.0
+221	固定接入互联网CFS_浙江_未定义_场景
+222	设施
+223	广东互联网专线产品_未定义_场景
+224	QOS模板RES V0.0.0
+225	B-Leaf设备RES V0.0.0
+226	城域网互联网接入_场景
+227	PON设备ONU配置RES V0.0.0
+228	STNPW拼接配置RES V0.0.0
+229	OTN
+230	5GCUPF切片配置RES V0.0.0
+231	福建IP虚拟专网CFS_未定义_863156_场景
+232	城域网互联网接入RFS V0.0.0
+233	IPRAN-云VLAN接入RFS_copy_未定义_场景
+234	云侧AS号RES V0.0.0
+235	城域网MSE设备服务等级组配置RES V0.0.0
+236	IPRAN PW接入RFS_U接入_场景
+237	海南_固定接入互联网CFS_PON接入_场景
+238	地址
+239	5G切片专线CFS V0.0.0
+240	VPN实例RES V0.0.0
+241	PON链路_上海_场景
+242	甘肃省内IPRANCFS_装_场景
+243	以太网端口RES V0.0.0
+244	固定入网专线2CFS_未定义_场景
+245	5G切片L2 into L3 RES V0.0.0
+246	VPN网号RES V0.0.0
+247	固定入网专线2CFS_未定义_场景6
+248	码号空间
+249	云POP交换机设备RES V0.0.0
+250	OTN-CN2三层VPN接入RFS V0.0.0
+251	UPF信息配置RES V0.0.0
+252	下联以太网端口RES V0.0.0
+253	5GCAMF切片配置RES V0.0.0
+254	OTN以太网链路RFS V0.0.0
+255	云-CN2
+256	固定入网专线CFS V2.0.0
+257	新型城域网-CN2三层VPN接入_场景
+258	IPRAN PW接入RFS_A接入_场景
+259	城域网SW设备RES V0.0.0
+260	5GC DNN接入RFS_比邻_STN接入_中兴_场景
+261	固定接入互联网CFS V0.0.0
+262	固定接入互联网CFS_MYF_光纤光路_场景
+263	云到专网CFS
+264	线路模板RES V0.0.0
+265	云专网产品普通节点_场景
+266	新型城域网-CN2三层EVPN接入RFS V0.0.0
+267	OTN-CN2三层VPN接入RFS_场景
+268	A-Leaf设备RES V0.0.0
+269	云专网产品_云站点_场景
+270	业务切片标识RES V0.0.0
+271	江西商务专线_CFS_未定义_940723_场景
+272	5G切片专线产品_5G_STN_场景
+273	OTN本地
+274	CVLAN RES V0.0.0
+275	极速专线_装_场景
+276	福建固定接入互联网CFS_PON接入_场景
+277	ASBR互联IP RES V0.0.0
+278	IPRAN-云VLAN接入RFS_未定义_场景
+279	端子RES V0.0.0
+280	IPRAN入云专线_跨地市_场景
+281	SVLAN RES V0.0.0
+282	云到网专线CFS V0.0.0
+283	 fj固定接入互联网CFS_pon新装_场景
+284	管理IP RES V0.0.0
+285	固定入网专线CFS_IPRAN接入_场景
+286	城域网三层VPN接入_场景
+287	5G切片专线CFS_157135_场景
+288	CE设备RES V0.0.0
+289	PON链路RFS V0.0.0
+290	互联网专线产品_场景
+291	城域网三层VPN接入RFS V0.0.0
+292	DNS RES V0.0.0
+293	5GC DNN RFS_场景
+294	新型城域网MPLS PW入云_场景
+295	新型城域网-CN2三层VPN接入RFS V0.0.0
+296	用户IP RES V0.0.0
+297	城域网互联网_光纤接入_场景
+298	新型城域网-CN2三层EVPN接入_场景
+299	云专网产品_5G接入_场景
+300	隧道RES V0.0.0
+301	A设备RES V0.0.0
+302	5GUDM APNTPL配置RES V0.0.0
+303	FIRST教育专网CFS_场景
+304	5GUPF DNN配置RES V0.0.0
+305	IPRAN-CN2三层VPN接入_场景
+306	RD RES V0.0.0
+307	城域网三层VPN接入_dba_场景
+308	互联IP RES V0.0.0
+309	5GC DNN RFS_473085_场景
+310	IPRAN伪线(CE连U连A)_场景
+311	U设备RES V0.0.0
+312	5GSMF DNN配置RES V0.0.0
+313	LOOPBACK口RES V0.0.0
+314	城域网-CN2三层VPN接入RFS V0.0.0
+315	IPRAN入云专线_黑龙江_CN2_场景
+316	网格RES V0.0.0
+317	CN2PE设备MPLSL3VPN配置RES V0.0.0
